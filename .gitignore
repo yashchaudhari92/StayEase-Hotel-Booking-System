@@ -1,0 +1,73 @@
+# =========================
+# BACKEND (Spring Boot)
+# =========================
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.log
+
+# =========================
+# STAYEASE BACKEND CONFIGURATION
+# =========================
+/stayease-backend/src/main/resources/application.properties
+/stayease-backend/src/main/resources/application-local.properties
+/stayease-backend/src/main/resources/application-prod.properties
+/stayease-backend/src/test/resources/application-test.properties
+
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Allow safe example templates
+!.env.example
+!**/.env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# STS
+.settings/
+.project
+.classpath
+
+# Maven Wrapper junk
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# FRONTEND (React)
+# =========================
+node_modules/
+dist/
+build/
+*.env
+.cache/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+
+# =========================
+# VSCODE / EDITOR
+# =========================
+.vscode/
+*.swp
+
+
+# =========================
+# ENV FILES (VERY IMPORTANT)
+# =========================
+.env
+.env.local
+.env.*.local
