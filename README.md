@@ -245,9 +245,9 @@ npm run dev
 | Service                  | URL                                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | **Frontend Application** | [http://localhost:5173](http://localhost:5173)                                             |
-| **Backend API**          | [http://localhost:8080](http://localhost:8080)                                             |
-| **Swagger UI**           | [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) |
-| **OpenAPI JSON Spec**    | [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)                     |
+| **Backend API**          | [http://localhost:8080](http://localhost:8081)                                             |
+| **Swagger UI**           | [http://localhost:8080/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html) |
+| **OpenAPI JSON Spec**    | [http://localhost:8080/v3/api-docs](http://localhost:8081/v3/api-docs)                     |
 
 ---
 
@@ -278,7 +278,7 @@ RAZORPAY_KEY_ID=your_razorpay_key
 RAZORPAY_KEY_SECRET=your_razorpay_secret
 
 # Server
-PORT=8080
+PORT=8081
 ```
 ## 📚 API Documentation
 | Resource         | URL                      |
@@ -299,8 +299,8 @@ PORT=8080
 ---
 
 <h1>👨‍💻 Author</h1>
-<h2><b>Rachit Sharma</b></h2>
-<h3>rachitsharma300</h3>
+<h2><b>Yashwant Chaudhari</b></h2>
+<h3>yashchaudhari92/h3>
 
 
 
