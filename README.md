@@ -300,7 +300,7 @@ PORT=8081
 
 <h1>👨‍💻 Author</h1>
 <h2><b>Yashwant Chaudhari</b></h2>
-<h3>yashchaudhari92/h3>
+<h3>yashchaudhari92</h3>
 
 
 
