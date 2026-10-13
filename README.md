@@ -245,9 +245,9 @@ npm run dev
 | Service                  | URL                                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | **Frontend Application** | [http://localhost:5173](http://localhost:5173)                                             |
-| **Backend API**          | [http://localhost:8080](http://localhost:8081)                                             |
-| **Swagger UI**           | [http://localhost:8080/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html) |
-| **OpenAPI JSON Spec**    | [http://localhost:8080/v3/api-docs](http://localhost:8081/v3/api-docs)                     |
+| **Backend API**          | [http://localhost:8081](http://localhost:8081)                                             |
+| **Swagger UI**           | [http://localhost:8081/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html) |
+| **OpenAPI JSON Spec**    | [http://localhost:8081/v3/api-docs](http://localhost:8081/v3/api-docs)                     |
 
 ---
 
